@@ -15,9 +15,9 @@
 Welcome to my GitHub profile - I'm a Web and App developer 
 
 - 🔭 I’m currently working on Java Enterprise Applications 🤓
-- 🌱 I’m currently learning Android and Jetpack Compose
-- 🏖️ I’m currently working at home here in Heredia, Costa Rica 🇨🇷
-- 🤔 I’m looking for help with UI/UX
+- 🌱 I’m starting to develop Android and Jetpack Compose business applications.
+- 🤔 Fun fact: I grew up before the Internet for more than 15 years.
+- 🏖️ I work from home here in Heredia, Costa Rica 🇨🇷 🌴🍹🍉⛱️🥥
 
 <!--
 **carlosquijano/carlosquijano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
