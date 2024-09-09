@@ -14,9 +14,9 @@
 
 Welcome to my GitHub profile - I'm a Web and App developer 
 
-- 🔭 I’m currently as a Java Developer 🤓
-- 🌱 I like to write full stack applications and serverless solutions
-- Also I like to develop Android and Jetpack Compose apps.
+- 🔭 I’m a seasoned Java Developer 🤓
+- 🌱 But I like to write full stack applications and serverless solutions
+- Also, I develop Android and Jetpack Compose apps.
 - 🤔 Fun fact: I grew up before the Internet for more than 15 years.
 - 🏖️ I work from home and live here in Heredia, Costa Rica 🇨🇷 🌴🍹🍉⛱️🥥
 
