@@ -12,13 +12,12 @@
 <br/>
 <br/>
 
-Welcome to my GitHub profile - I'm a Web and App developer 
+Welcome to my GitHub profile! I'm a Web and App Developer.
 
-- 🔭 I’m a seasoned Java Developer 🤓
-- 🌱 But I like to write full stack applications and serverless solutions
-- Also, I develop Android and Jetpack Compose apps.
-- 🤔 Fun fact: I grew up before the Internet for more than 15 years.
-- 🏖️ I work from home and live here in Heredia, Costa Rica 🇨🇷 🌴🍹🍉⛱️🥥
+🔭 Experienced in Java, I enjoy building full-stack applications and serverless solutions.
+🌱 I also develop Android apps with Kotlin and Jetpack Compose.
+🤔 Fun fact: I grew up long before the internet became a daily part of life.
+🏖️ I work remotely from my home in Heredia, Costa Rica 🇨🇷 🌴🍹🍉⛱️🥥
 
 <!--
 **carlosquijano/carlosquijano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
