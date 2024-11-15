@@ -1,23 +1,20 @@
 ### Hi there 👋
 
-<a href="https://twitter.com/carlos_quijano">
-  <img alt="Follow @carlos_quijano on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> &nbsp;
-<a href="https://www.linkedin.com/in/carlos-quijano-63793033/">
-  <img alt="Carlos on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> &nbsp;
-<a href="https://stackoverflow.com/users/1078487/carlos-quijano">
-  <img alt="Carlos's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a> &nbsp;
-<br/>
-<br/>
-
 Welcome to my GitHub profile! I'm a Web and App Developer.
+
 
 - 🔭 Experienced in Java, I enjoy building full-stack applications and serverless solutions.
 - 🌱 I also develop Android apps with Kotlin and Jetpack Compose.
 - 🤔 Fun fact: I grew up long before the internet became a daily part of life.
 - 🏖️ I work remotely from my home in Heredia, Costa Rica 🇨🇷 🌴🍹🍉⛱️🥥
+
+### Follow me on:
+
+<a href="https://twitter.com/carlos_quijano"><img alt="Follow @carlos_quijano on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/carlos-quijano-63793033/"><img alt="Carlos on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://stackoverflow.com/users/1078487/carlos-quijano"><img alt="Carlos's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
+<br/>
+<br/>
 
 <!--
 **carlosquijano/carlosquijano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
