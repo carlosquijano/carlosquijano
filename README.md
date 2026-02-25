@@ -1,39 +1,30 @@
-### Hi there 👋
+### 👋 ¡Hola! I'm Carlos Quijano
 
-Welcome to my GitHub profile! I'm a Web and App Developer.
+Welcome to my GitHub profile! I'm a Java Developer from Heredia, Costa Rica 🇨🇷 🌴
 
+## 👨‍💻 About Me
 
-- 🔭 Experienced in Java, I enjoy building full-stack applications and serverless solutions.
-- 🌱 I also develop Android apps with Kotlin and Jetpack Compose.
-- 🤔 Fun fact: I grew up long before the internet became a daily part of life.
-- 🏖️ I work remotely from my home in Heredia, Costa Rica 🇨🇷 🌴🍹🍉⛱️🥥
+- 🔭 **Currently working on**: Android templates and Clean Architecture projects
+- 🌱 **Learning**: Kotlin Multiplatform & advanced Compose patterns
+- 💼 **Experience**: Java, Kotlin, Android, Full-stack development
+- 🏖️ **Work style**: Fully remote, beach views included 🥥
+- 📖 **Fun fact**: I grew up before the internet was a daily thing (yes, I remember dial-up!)
 
-### Follow me on:
+## 📱 Featured Projects
 
-<a href="https://twitter.com/carlos_quijano"><img alt="Follow @carlos_quijano on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/carlos-quijano-63793033/"><img alt="Carlos on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://stackoverflow.com/users/1078487/carlos-quijano"><img alt="Carlos's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
-<br/>
-<br/>
+- [**minimal-android-project**](https://github.com/carlosquijano/minimal-android-project) - Minimal Android template with Jetpack Compose
+- [**minimal-clean-architecture**](https://github.com/carlosquijano/minimal-clean-architecture) - Clean Architecture template with Koin & Room
 
-<!--
-**carlosquijano/carlosquijano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<a href="https://github.com/mraible">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosquijano&theme=light&count_private=true&layout=compact" alt="Carlos's most used languages" />
+<a href="https://github.com/carlosquijano">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosquijano&show_icons=true&theme=light&count_private=true&hide=issues,prs,contribs" alt="Carlos's GitHub stats" />
 </a>
-<a href="https://github.com/mraible">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosquijano&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Carlos's GitHub stats"/>
+<a href="https://github.com/carlosquijano">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosquijano&theme=light&count_private=true&layout=compact" alt="Carlos's most used languages" />
 </a>
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-quijano-63793033/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1078487/carlos-quijano)
