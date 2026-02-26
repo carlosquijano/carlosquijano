@@ -15,7 +15,13 @@ Welcome to my GitHub profile! I'm a Java Developer from Heredia, Costa Rica 🇨
 - [**minimal-android-project**](https://github.com/carlosquijano/minimal-android-project) - Minimal Android template with Jetpack Compose
 - [**minimal-clean-architecture**](https://github.com/carlosquijano/minimal-clean-architecture) - Clean Architecture template with Koin & Room
 
+## ✍️ Blog
+
+[![Blog](https://img.shields.io/badge/Blog-Android%20Tech%20Notes-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://android-tech-notes.blogspot.com/)
+
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-quijano-63793033/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1078487/carlos-quijano)
+
+
