@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a Java Developer from Heredia, Costa Rica 🇨
 - 📖 **Fun fact**: I grew up before the internet was a daily thing (yes, I remember dial-up!)
 
 ## 📱 Featured Projects
-
+- [**minimal-java-agent**](https://github.com/carlosquijano/minimal-java-agent) - A minimal template for building modern agents in Java 21+ with Spring Boot, designed to handle AI requests efficiently and with performance in mind
 - [**minimal-android-project**](https://github.com/carlosquijano/minimal-android-project) - Minimal Android template with Jetpack Compose
 - [**minimal-clean-architecture**](https://github.com/carlosquijano/minimal-clean-architecture) - Clean Architecture template with Koin & Room
 
