@@ -1,6 +1,6 @@
 # 👋 ¡Hola! I'm Carlos Quijano
 
-> Java/Android/AI Developer · Remote from Heredia, Costa Rica 🇨🇷🌴
+> Java/Android/AI Sofware Developer · Remote from Heredia, Costa Rica 🇨🇷🌴
 
 ## 👨‍💻 About Me
 
