@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **Find me as** `carlosquijano`, `cquijano` or `cq8080`
+- 🔭 **Find me here as** [`carlosquijano`](https://github.com/carlosquijano) or [`cq8080`](https://github.com/CQ8080)
 - 🚀 **Currently working on** AI system engineering, clean architecture & blogging
 - 🌱 **Learning** Kotlin Multiplatform & advanced Compose patterns
 - 💼 **Stack** Java · Kotlin · Android · Full-stack
@@ -21,7 +21,8 @@
 
 ## ✍️ Blog
 
-[![Blog](https://img.shields.io/badge/Blog-Android%20Tech%20Notes-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://android-tech-notes.blogspot.com/)
+[![Blog](https://img.shields.io/badge/Blog-CQ8080-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://cq8080.blogspot.com/)
+[![Blog](https://img.shields.io/badge/Blog-Android-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://android-tech-notes.blogspot.com/)
 
 ## 🌐 Connect with Me
 
